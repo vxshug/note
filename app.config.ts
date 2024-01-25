@@ -30,7 +30,7 @@ export default defineAppConfig({
     header: {
       logo: true,
       showLinkIcon: true,
-      exclude: ["/browser"],
+      exclude: ["/browser", "/project-start"],
       fluid: true
     }
   }
