@@ -30,7 +30,7 @@ export default defineAppConfig({
     header: {
       logo: true,
       showLinkIcon: true,
-      exclude: ["/browser", "/project-start", "/database"],
+      exclude: ["/browser", "/project-start", "/database", "/cpp", "/qt", "/flutter"],
       fluid: true
     }
   }
